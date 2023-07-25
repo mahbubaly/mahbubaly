@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Redux , Next.js**
 
-- 👨‍💻 Recent Project:([https://college-admission.netlify.app/colleges](https://college-admission.netlify.app/colleges))
+- 👨‍💻 Recent Project:([https://college-admission.netlify.app/colleges]https://college-admission.netlify.app)
 
 - 💬 Ask me about **MEARN**
 
