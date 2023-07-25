@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Redux , Next.js**
 
-- 👨‍💻 Recent Project:(https://college-admission.netlify.app)
+- 👨‍💻 Recent Project: This is Mern stact project Which is base on a college admission  https://college-admission.netlify.app
 
 - 💬 Ask me about **MEARN**
 
